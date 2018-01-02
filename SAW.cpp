@@ -59,5 +59,8 @@ int main(){
 		cout<<endl;
 }
 	cout << "HASIL AKHIR  :"<<endl;
-
+	cout<<"Nilai A1 : " <<hasil1<<endl;
+	cout<<"Nilai A2 : " <<hasil2<<endl;
+	cout<<"Nilai A3 : " <<hasil3<<endl;
 }
+
