@@ -20,20 +20,18 @@ int main(){
 		mc4=max(3,max(2,2));
 		mc5=max(3,max(3,2));
 		
-	// AMBIL NILAI MAX TIAP KRITERIA
-
+	// PERHITUNGAN MANUAL
 	
-	// BUAT MATRIKS R
-
-	// MATRIKS R * W
-
-	
-	// PENJUMLAHAN HASIL R * W	
 
 		
 	// MENAMPILKAN NILAI
 	cout << "MATRIKS X :"<<endl;
-
+	for(i=0;i<3;i++){
+		for (j=0;j<5;j++) {
+			cout<<ac[i][j]<<" | ";
+		}
+		cout<<endl;
+	}
 	cout << "MATRIKS R :"<<endl;
 
 	cout << "BOBOT W :"<<endl;
