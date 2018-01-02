@@ -42,7 +42,11 @@ int main(){
 		cout<<endl;
 	}
 	cout << "BOBOT W :"<<endl;
-
+		for (j=0;j<5;j++) {
+			cout<<w[j]<<" | ";			
+}
+	cout<<endl;
+	
 	cout << "MATRIKS R * W :"<<endl;
 
 	cout << "HASIL AKHIR  :"<<endl;
