@@ -21,7 +21,9 @@ int main(){
 		mc5=max(3,max(3,2));
 		
 	// PERHITUNGAN MANUAL
-	
+		hasil1=4+3+4+4+2;
+		hasil2=3+2.25+3.2+2.6667+2;
+		hasil3=5+3+1.6+2.6667+1.3333;
 
 		
 	// MENAMPILKAN NILAI
