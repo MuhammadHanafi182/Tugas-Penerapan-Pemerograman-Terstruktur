@@ -13,8 +13,13 @@ int main(){
 	cout.setf(ios::showpoint);
 	cout.precision(4);
 
-	// ISI DATA
-
+	// ISI DATA YANG MANUAL PENCARIAN NILAI MAX
+		mc1=max(4,max(3,5));
+		mc2=max(4,max(3,4));
+		mc3=max(5,max(4,2));
+		mc4=max(3,max(2,2));
+		mc5=max(3,max(3,2));
+		
 	// AMBIL NILAI MAX TIAP KRITERIA
 
 	
