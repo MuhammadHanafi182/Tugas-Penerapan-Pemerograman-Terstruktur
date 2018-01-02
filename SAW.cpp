@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	// DEKLARASI VARIABEL
+	// DEKLARASI VARIABEL BERDASARKAN ARRAY
 	int i,j,n,b,a[8];
 	double c[i][j], ac[3][5] = {{4,4,5,3,3},{3,3,4,2,3},{5,4,2,2,2}};
 	double w[] = {5,3,4,4,2};
